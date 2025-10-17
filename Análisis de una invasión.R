@@ -73,8 +73,8 @@ View(Datos_Trampas)
 
 # Pasando los datos a formato POSIXlt (segundos desde 1970) (cada ítem en un formato amigable, pero pesado).
 
-# Posteriormente se convierten a POSIXct (segundos desde 1970), en un formato
-# (menos pesado).
+# Posteriormente se convierten a POSIXct (segundos desde 1970), es un formato
+# menos pesado.
 
 # Pasando a POSIXlt:
 
