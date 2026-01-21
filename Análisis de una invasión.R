@@ -5,7 +5,7 @@
 
 # Se presenta el código utilizado para realizar
 # los cálculos de la metodología propuesta en el 
-# artículo de Griffon y Pino (2024).
+# artículo de Griffon y Pino (2025).
 
 
 # ////////////////////////////////////////////
