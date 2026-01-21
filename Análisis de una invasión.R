@@ -799,3 +799,6 @@ plot(Agroecosistema, layout = Circulo,
      vertex.label.color="black", 
      vertex.label.font = 1, 
      vertex.label.dist = -2) 
+
+# Se puede bajar gratuitamente el artículo (Griffon y Pino, 2025) en este vínculo:
+# https://saber.ucv.ve/ojs/index.php/revista_abv/article/view/31827
