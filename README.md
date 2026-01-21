@@ -18,4 +18,3 @@ Para establecer las asociaciones entre las capturas de las trampas, se utilizan 
 
 Se puede bajar gratuitamente el artículo (Griffon y Pino, 2025) en este vínculo:
 https://saber.ucv.ve/ojs/index.php/revista_abv/article/view/31827
-<img width="442" height="44" alt="image" src="https://github.com/user-attachments/assets/06cb900d-5f3f-422f-9097-5778bd029e23" />
